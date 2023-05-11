@@ -2,7 +2,7 @@
     width: 100px;
 }
 #hero-img{
-    width: 300px;
+    width: 100%;
 }
 .card-img{
     width: 300px;
@@ -15,4 +15,48 @@
 }
 .medialogo{
     width: 20px;
+}
+body {
+    background-color: #fcfbfb; 
+    text-align: center;
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer p {
+    font-size: 1.2em;
+}  
+footer p a:hover {
+    text-decoration: underline;
+} 
+.boxes{
+    background-color: #D9C2A3;
+    width: 100%;
+    height: 60vh;
+}
+.msg{
+    background-color: #6F7364;
+    color: white;
+}
+.msg a{
+    text-decoration: none;
+    color: #D9C2A3;
+}
+footer{
+    background-color: #6F7364;
+    text-align: left;
+    color:#D9C2A3;
+    
+}
+footer a{
+    text-decoration: none;
+    color: #D9C2A3;
 }
