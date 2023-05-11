@@ -12,6 +12,7 @@
 }
 .mountains{
     width: 400px;
+    display: block;
 }
 .medialogo{
     width: 20px;
